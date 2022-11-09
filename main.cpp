@@ -64,7 +64,7 @@ public:
                     return ele;
             }
         }
-        return false;
+        return 0;
     }
 };
 
